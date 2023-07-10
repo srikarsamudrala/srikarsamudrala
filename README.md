@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I'm an Undergrad student at BVR Institute of Technology
-- 👔 I’m currently interning at Hexagon CCI
-- 📫 How to reach me: @ssrikarr via instagram
+- 🌱 I'm a CS Undergrad student at BVR Institute of Tech
+- 👔 I’ve previously interned at Amazon and Hexagon CCI
+- 📫 How to reach me: @ssrikarr via Instagram
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: sea turtles live longer than humans. lol, everyone knows that.
 
