@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I'm a CS Undergrad student at BVR Institute of Tech
-- 👔 I’ve previously interned at Amazon and Hexagon CCI
+- 🌱 I'm a Computer Engineering graduate student at NYU Tandon.
+- 👔 I’ve previously worked at Salesforce and interned at Amazon and Hexagon CCI
 - 📫 How to reach me: @ssrikarr via Instagram
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: sea turtles live longer than humans. lol, everyone knows that.
